@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./assets/images/favicon-32x32.png"
+    />
+
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/style.css" />
+
+    <title>Frontend Mentor | Results summary component</title>
+
+  </head>
+  <body>
+    <main>
+      <div class="container">
+        <div class="result-card">
+          <h2>Your Result</h2>
+
+          <div class="result">
+            <p>76</p>
+            of 100
+          </div>
+
+          <p class="text-feedback">Great</p>
+
+          <p>
+            You scored higher than 65% of the people who have taken these tests.
+          </p>
+        </div>
+
+        <div class="summary-card">
+          <h2 class="summary-title">Summary</h2>
+
+          <div class="skills-container">
+            <div class="skill-container reaction-container">
+              <div class="icon-and-skill">
+                <img src="./assets/images/icon-reaction.svg" />
+                <span class="reaction skill">Reaction</span>
+              </div>
+              <span class="skill-score"><span>80</span> / 100</span>
+            </div>
+
+            <div class="skill-container memory-container">
+              <div class="icon-and-skill">
+                <img src="./assets/images/icon-memory.svg" />
+                <span class="memory skill">Memory</span>
+              </div>
+              <span class="skill-score"><span>92</span> / 100</span>
+            </div>
+
+            <div class="skill-container verbal-container">
+              <div class="icon-and-skill">
+                <img src="./assets/images/icon-verbal.svg" />
+                <span class="verbal skill">Verbal</span>
+              </div>
+              <span class="skill-score"><span>61</span> / 100</span>
+            </div>
+
+            <div class="skill-container visual-container">
+              <div class="icon-and-skill">
+                <img src="./assets/images/icon-visual.svg" />
+                <span class="visual skill">Visual</span>
+              </div>
+              <span class="skill-score"><span>73</span> / 100</span>
+            </div>
+          </div>
+
+          <button class="continue-btn">Continue</button>
+        </div>
+      </div>
+    </main>
+    <footer class="attribution">
+      Challenge by
+      <a target="_blank" href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>.
+      Coded by <a target="_blank" href="https://github.com/muhammad-esmat/">Muhammad Esmat</a>.
+    </footer>
+  </body>
+</html>
