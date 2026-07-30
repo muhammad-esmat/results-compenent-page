@@ -43,7 +43,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties (variables)
 - Flexbox
-- Mobile-first workflow
 - CSS Reset/Normalize (via normalize.css)
 
 ### What I learned
