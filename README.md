@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/muhammad-esmat/results-compenent-page
-- Live Site URL: https://github.com/muhammad-esmat/results-compenent-page
+- Live Site URL: https://muhammad-esmat.github.io/results-compenent-page/
  
 ## My process
 
