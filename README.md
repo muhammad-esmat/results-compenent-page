@@ -33,9 +33,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://muhammad-esmat.github.io/](https://muhammad-esmat.github.io/)
-- Live Site URL: [https://muhammad-esmat.github.io/](https://muhammad-esmat.github.io/)
-
+- Solution URL: https://github.com/muhammad-esmat/results-compenent-page
+- Live Site URL: https://github.com/muhammad-esmat/results-compenent-page
+ 
 ## My process
 
 ### Built with
