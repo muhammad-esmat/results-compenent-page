@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/muhammad-esmat/results-compenent-page
-- Live Site URL: https://muhammad-esmat.github.io/results-compenent-page/
+- Solution URL: https://github.com/muhammad-esmat/results-component-page
+- Live Site URL: https://muhammad-esmat.github.io/results-component-page/
  
 ## My process
 

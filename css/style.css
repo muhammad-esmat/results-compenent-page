@@ -165,16 +165,16 @@ main {
 }
 
 .reaction-container {
-  background-color: hsla(0, 100%, 67%, .05);
+  background-color: hsla(0, 100%, 67%, 0.05);
 }
 .memory-container {
-  background-color: hsla(39, 100%, 56%, .05);
+  background-color: hsla(39, 100%, 56%, 0.05);
 }
 .verbal-container {
-  background-color: hsla(166, 100%, 37%, .05);
+  background-color: hsla(166, 100%, 37%, 0.05);
 }
 .visual-container {
-  background-color: hsla(234, 58%, 45%, .05);
+  background-color: hsla(234, 58%, 45%, 0.05);
 }
 
 .skill-container .icon-and-skill {
@@ -201,8 +201,9 @@ main {
 .skill-score {
   color: rgb(0 0 0 / 50%);
 }
-.skill-score :first-child {
+.skill-score span:first-child {
   color: rgb(0 0 0 / 100%);
+  margin-right: 2px;
   font-weight: 800;
 }
 
